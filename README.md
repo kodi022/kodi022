@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kodi022
-- 👀 I’m interested in ... Games, Brickadia, Tech
-- 🌱 I’m currently learning ... JS
-- 💞️ I’m looking to collaborate on ... I'm not that competent yet
+- 👀 I’m interested in Tech, Games, Brickadia
+- 🌱 I’m currently learning programming (JS, LUA, C#, maybe C##), also guitar and music theory a bit.
 - 📫 How to reach me ...
 
 <!---
