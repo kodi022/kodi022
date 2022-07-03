@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kodi022
-- 👀 I’m interested in Tech, Games, Brickadia
-- 🌱 I’m a hobbyist programmer (JS, C#, some RUST)
+Interested in Tech, Games, Brickadia
+
+Hobbyist programmer - JS, C# mainly
+Began 05/2021
