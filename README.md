@@ -1,5 +1,7 @@
-Interested in Programming, Computers, Tech, Games, Game modding, Unity, Brickadia
+OBC https://www.orangebrick.dev/
 
-Hobbyist programmer - JS, C# mainly
+Interested in Programming, Computers, Tech, Games, Modding
 
-Began 05/2021
+Hobbyist programmer - mainly C# and JS
+
+Began programming 05/2021
