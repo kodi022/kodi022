@@ -1,9 +1,7 @@
 OBC https://www.orangebrick.dev/
 
-Interested in Programming, Computers, Tech, Games, Modding
+Hobbyist programmer. Primarily C#, HTML/CSS, JS/TS
 
-Hobbyist programmer - mainly C# and JS
+Making mods and games
 
-Began programming 05/2021
-
-Have been working on a game since september 2022, but git was on my old email so it didnt register, lol.
+Started programming 05/2021
