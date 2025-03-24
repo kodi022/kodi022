@@ -1,5 +1,5 @@
-My community OBC https://www.orangebrick.dev/
+My community https://www.orangebrick.dev/
 
-Hobbyist programmer. Primarily C#, HTML/CSS, JS/TS
+Hobbyist programmer. C#, HTML/CSS/JS
 
-Making mods and games
+Making games and mods
